@@ -1,0 +1,66 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/remixicon/4.5.0/remixicon.css");
+
+.navbar {
+    margin-top: 70px;
+    z-index: 20;
+    position: sticky !important;
+    top: 0;
+    width: 100%;
+}
+
+@media (max-width: 1000px) {
+    .navbar {
+        margin-top: 0px !important;
+    }
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+}
+
+.info-element-cont {
+    position: relative;
+}
+
+.info-element-cont:hover .info-element-bottom {
+    opacity: 1 !important;
+    transform: translate(-50%, 100%) !important;
+}
+
+.info-element-cont:hover .info-element-top {
+    opacity: 1 !important;
+    transform: translate(-50%, -100%) !important;
+}
+
+.info {
+    opacity: 0;
+    pointer-events: none;
+
+    position: absolute;
+    left: 50%;
+
+    background-color: #cbcbcbc6;
+    color: #000;
+    z-index: 10;
+    padding: 5px;
+    border-radius: 20px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    font-size: 15px;
+    width: max-content;
+    transition: .3s ease-out;
+}
+
+.info-element-bottom {
+    transform: translate(-50%, 50%);
+    bottom: 0;
+}
+
+.info-element-top {
+    transform: translate(-50%, -50%);
+    top: 0;
+}

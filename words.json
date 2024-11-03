@@ -1,0 +1,20 @@
+{
+    "words": [
+      { "word": "Apple(Epıl)", "ctg": "Fruit", "desc": "Elma" },
+      { "word": "Just(Jast)", "ctg": "Word", "desc": "Sadece" },
+      { "word": "Only(Onliy)", "ctg": "Word", "desc": "Sadece" },
+      { "word": "Pear(Piyır)", "ctg": "Fruit", "desc": "Armut" },
+      { "word": "After(Aftır)", "ctg": "Word", "desc": "Sonra" },
+      { "word": "Agreed(Egriid)", "ctg": "Word", "desc": "Anlaşıldı, Kararlaştırıldı" },
+      { "word": "Answer(Ensvır)", "ctg": "Word", "desc": "Cevap" },
+      { "word": "Art(Art)", "ctg": "Word", "desc": "Sanat" },
+      { "word": "Abandon(Ebendın)", "ctg": "Word", "desc": "Terk Etmek, Bırakmak" },
+      { "word": "Ability(Ebiliti)", "ctg": "Word", "desc": "Hüner, Beceri, Kabiliyet" },
+      { "word": "About(Ebaut)", "ctg": "Word", "desc": "Hakkında, Aşağı Yukarı, Üzere" },
+      { "word": "Above(Ebov)", "ctg": "Word", "desc": "Üstünde, Üzerine" },
+      { "word": "Abroad(Ebrood)", "ctg": "Word", "desc": "Yurt Dışında, Yurtdışı" },
+      { "word": "Absence(Ebsıns)", "ctg": "Word", "desc": "Bulunmama, Yokluk" },
+      { "word": "Absolute(Ebsulut)", "ctg": "Word", "desc": "Mutlak, Salt, Kesin" },
+      { "word": "Absolutely(Ebsulutli)", "ctg": "Word", "desc": "Mutlaka, Kesinlikle" }
+    ]
+}
